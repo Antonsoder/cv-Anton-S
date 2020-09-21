@@ -1,0 +1,223 @@
+h1 {
+    
+    position: absolute;
+    left: 25%;
+    top:10%;
+    font-size: 80px;
+    
+
+}
+
+
+body {
+    background-image: url(https://www.ljudochbild.se/wp-content/uploads/2020/05/Polestar-2-1920x1080.jpg);
+background-size: cover;
+}
+
+
+.Bakgrund{
+background-size: cover;
+    background-image: url(https://images.hdqwalls.com/download/polestar-1-2019-4k-bz-1920x1080.jpg);
+}
+
+
+
+p{
+left: 1%;
+top: 10%;
+position: absolute;
+}
+
+
+
+
+ul{ 
+float: right;
+list-style-type: none;
+margin-top: 20px;
+}
+
+
+
+
+ul li{
+    
+    display: inline;
+    margin-inline-end: 20px;
+
+  
+
+}
+
+ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 5px 20px;
+    border: 1px solid black;
+    transition:0.6s ease;
+}
+
+ul li a:hover{
+    background-color: white;
+    color: black;
+    letter-spacing: 1px;
+
+}
+
+
+h2{
+text-align: center;
+position: absolute;
+left: 45%;
+top: 1%;
+}
+
+.text2{
+text-align: center;
+position: absolute;
+left: 1%;
+top: 15%;
+
+}
+
+.Polestar{
+width: 771.75px;
+height: 471.625px;
+position: absolute;
+left: 50%;
+top: 55%;
+transform: translate(-50%, -50%);
+}
+
+
+h3{
+    text-align: center;
+    position: absolute;
+    left: 45%;
+    top:1%;
+}
+
+
+.Polestar2{
+width: 771.75px;
+height: 471.625px;
+position: absolute;
+left: 50%;
+top: -18%;
+transform: translate(-50%, 50%);
+
+}
+
+
+
+h4{
+    text-align: center;
+    position: absolute;
+    top: 1%;
+    left: 45%;
+    font-size: 1.7em;
+}
+
+
+
+.Porsche{
+    width: 806.4px;
+    height: 453.6px;
+    position: absolute;
+    left: 50%;
+    top: -15%;
+    transform: translate(-50%, 50%); 
+}
+
+
+.Bakgrund2{
+    background-image: url(https://wallpaperaccess.com/full/662957.png);
+}
+
+
+.Hockey{
+    position: absolute;
+    transform: translate(-50%, 50%);
+    left: 48%;
+    top: -20%;
+    width: 346.92px;
+    height: 401.8px;
+}
+
+.Portratt{
+    position: absolute;
+    transform: translate(-50%, 50%);
+    width: 322.696px;
+    height: 401.8px;
+    left: 75%;
+    top: -20%;
+
+
+}
+ 
+
+.Ommig{
+width: 250px;
+left: 15%;
+
+
+}
+
+.Ommig2{
+    width: 250px;
+    left: 55%;
+    top: 5%;
+}
+
+.Ommig3{
+    width: 250px;
+    top: 25%;
+    left: 70%;
+}
+
+
+.Skola{
+    background-image: url(https://cdn.hipwallpaper.com/i/50/79/MSsZP2.jpg);
+
+}
+
+.Kurser{
+    top: 20%;
+    width: 85px;
+}
+
+.Pagaende{
+    left: 35%;
+}
+
+.Pagaende_kurser{
+    left: 35%;
+    top: 20%;
+    width: 85px;
+}
+
+.Kommande{
+    left: 65%;
+    top: 10%;
+
+
+}
+.Kommande_kurser{
+width: 85px;
+left:65%;
+top: 20%;
+}
+
+.Info1{
+    top: 50%;
+}
+
+
+.Portratt2{
+    
+}
+
+
+
+
+
