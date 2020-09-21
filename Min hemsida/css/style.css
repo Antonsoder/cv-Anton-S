@@ -215,10 +215,13 @@ top: 20%;
 
 
 .Portratt2{
+    position: absolute;
+    transform: translate(50%,-50%);
     width: 385px;
     height: 414px;
-    top: 20%;
-    left: 75%;
+    left: -13%;
+    top: 45%;
+
 }
 
 
