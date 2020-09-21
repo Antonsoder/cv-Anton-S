@@ -4,7 +4,7 @@ h1 {
     left: 25%;
     top:10%;
     font-size: 80px;
-    
+    font-style: italic;
 
 }
 
@@ -55,6 +55,7 @@ ul li a{
     padding: 5px 20px;
     border: 1px solid black;
     transition:0.6s ease;
+    font-style: italic;
 }
 
 ul li a:hover{
@@ -70,6 +71,7 @@ text-align: center;
 position: absolute;
 left: 45%;
 top: 1%;
+font-style: italic;
 }
 
 .text2{
@@ -80,14 +82,7 @@ top: 15%;
 
 }
 
-.Polestar{
-width: 771.75px;
-height: 471.625px;
-position: absolute;
-left: 50%;
-top: 55%;
-transform: translate(-50%, -50%);
-}
+
 
 
 h3{
@@ -98,15 +93,7 @@ h3{
 }
 
 
-.Polestar2{
-width: 771.75px;
-height: 471.625px;
-position: absolute;
-left: 50%;
-top: -18%;
-transform: translate(-50%, 50%);
 
-}
 
 
 
@@ -120,14 +107,7 @@ h4{
 
 
 
-.Porsche{
-    width: 806.4px;
-    height: 453.6px;
-    position: absolute;
-    left: 50%;
-    top: -15%;
-    transform: translate(-50%, 50%); 
-}
+
 
 
 .Bakgrund2{
@@ -225,4 +205,43 @@ top: 20%;
 }
 
 
+.GOLFA{
+position: absolute;
+left: 80%;
+top: 10%;
+}
+
+.Hockey{
+position: absolute;
+top: -20%;
+left: 50%;
+}
+
+.GYMMA{
+position: absolute;
+top: 45%;
+left: 10%;
+}
+
+.GYMTEXT{
+position: absolute;
+top: 49%;
+left: 10%;
+width: 100px;
+}
+
+.HOCKEYTEXT{
+position: absolute;
+top: 18%;
+left: 30%;
+width: 300px;
+}
+
+
+.GOLFTEXT{
+position: absolute;
+top: 15%;
+left: 73%;
+width: 250px;
+}
 
